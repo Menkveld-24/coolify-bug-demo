@@ -1,0 +1,5 @@
+services:
+  web.bug:
+    build: .
+    expose:
+      - 80
